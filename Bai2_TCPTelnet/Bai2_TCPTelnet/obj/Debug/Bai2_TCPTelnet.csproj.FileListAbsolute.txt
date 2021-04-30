@@ -1,0 +1,10 @@
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\bin\Debug\Bai2_TCPTelnet.exe.config
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\bin\Debug\Bai2_TCPTelnet.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\bin\Debug\Bai2_TCPTelnet.pdb
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\obj\Debug\Bai2_TCPTelnet.csprojAssemblyReference.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\obj\Debug\Bai2_TCPTelnet.Form1.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\obj\Debug\Bai2_TCPTelnet.Properties.Resources.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\obj\Debug\Bai2_TCPTelnet.csproj.GenerateResource.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\obj\Debug\Bai2_TCPTelnet.csproj.CoreCompileInputs.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\obj\Debug\Bai2_TCPTelnet.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai2_TCPTelnet\Bai2_TCPTelnet\obj\Debug\Bai2_TCPTelnet.pdb

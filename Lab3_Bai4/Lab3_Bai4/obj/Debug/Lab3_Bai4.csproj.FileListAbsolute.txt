@@ -1,0 +1,12 @@
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\bin\Debug\Lab3_Bai4.exe.config
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\bin\Debug\Lab3_Bai4.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\bin\Debug\Lab3_Bai4.pdb
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\obj\Debug\Lab3_Bai4.csprojAssemblyReference.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\obj\Debug\Lab3_Bai4.Client.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\obj\Debug\Lab3_Bai4.Form1.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\obj\Debug\Lab3_Bai4.Properties.Resources.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\obj\Debug\Lab3_Bai4.Server.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\obj\Debug\Lab3_Bai4.csproj.GenerateResource.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\obj\Debug\Lab3_Bai4.csproj.CoreCompileInputs.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\obj\Debug\Lab3_Bai4.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Lab3_Bai4\Lab3_Bai4\obj\Debug\Lab3_Bai4.pdb

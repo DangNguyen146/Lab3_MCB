@@ -1,0 +1,9 @@
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai1_UDPServer\Bai1_UDPServe\bin\Debug\Bai1_UDPServe.exe.config
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai1_UDPServer\Bai1_UDPServe\bin\Debug\Bai1_UDPServe.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai1_UDPServer\Bai1_UDPServe\bin\Debug\Bai1_UDPServe.pdb
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai1_UDPServer\Bai1_UDPServe\obj\Debug\Bai1_UDPServe.Form1.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai1_UDPServer\Bai1_UDPServe\obj\Debug\Bai1_UDPServe.Properties.Resources.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai1_UDPServer\Bai1_UDPServe\obj\Debug\Bai1_UDPServer.csproj.GenerateResource.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai1_UDPServer\Bai1_UDPServe\obj\Debug\Bai1_UDPServer.csproj.CoreCompileInputs.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai1_UDPServer\Bai1_UDPServe\obj\Debug\Bai1_UDPServe.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab3\Bai1_UDPServer\Bai1_UDPServe\obj\Debug\Bai1_UDPServe.pdb
